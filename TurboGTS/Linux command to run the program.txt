@@ -1,0 +1,4 @@
+cd TurboGTS
+javac -sourcepath src -d bin src/**/*.java
+java -cp ./bin mainframe.TurboGTS dataset_NewYork.txt
+
