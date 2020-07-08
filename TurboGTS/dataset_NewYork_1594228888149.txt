@@ -1,0 +1,11 @@
+Total task No. 10000 with expiration base 3600 and expiration choices 13 and expiration interval 300 with durBase 5 and durNum 296 and durInterval 1 with No. of workers 40 with departure time base 0 and with departure time choices 1 and with departure time interval 0 with speed 30 with repetition times 1
+
+The number of tasks accomplished by BLALS_T is 2111.0 with CPU time 50776.718264 milliseconds.
+
+The number of tasks accomplished by QT_NUD is 2311.0 with CPU time 9124.258302 milliseconds.
+
+The number of tasks accomplished by QT_NNH is 2328.0 with CPU time 624.171112 milliseconds.
+
+The number of tasks accomplished by WBT_NUD is 2608.0 with CPU time 15935.790506 milliseconds.
+
+The number of tasks accomplished by WBT_NNH is 2608.0 with CPU time 172.970042 milliseconds.
